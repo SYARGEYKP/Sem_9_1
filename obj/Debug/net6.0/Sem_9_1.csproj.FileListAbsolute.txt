@@ -1,0 +1,15 @@
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\bin\Debug\net6.0\Sem_9_1.exe
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\bin\Debug\net6.0\Sem_9_1.deps.json
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\bin\Debug\net6.0\Sem_9_1.runtimeconfig.json
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\bin\Debug\net6.0\Sem_9_1.dll
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\bin\Debug\net6.0\Sem_9_1.pdb
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\obj\Debug\net6.0\Sem_9_1.csproj.AssemblyReference.cache
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\obj\Debug\net6.0\Sem_9_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\obj\Debug\net6.0\Sem_9_1.AssemblyInfoInputs.cache
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\obj\Debug\net6.0\Sem_9_1.AssemblyInfo.cs
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\obj\Debug\net6.0\Sem_9_1.csproj.CoreCompileInputs.cache
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\obj\Debug\net6.0\Sem_9_1.dll
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\obj\Debug\net6.0\refint\Sem_9_1.dll
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\obj\Debug\net6.0\Sem_9_1.pdb
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\obj\Debug\net6.0\Sem_9_1.genruntimeconfig.cache
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_1\obj\Debug\net6.0\ref\Sem_9_1.dll
